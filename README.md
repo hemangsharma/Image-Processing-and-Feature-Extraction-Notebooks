@@ -1,4 +1,4 @@
-# README for Image Processing and Feature Extraction Notebooks
+#Image Processing and Feature Extraction Notebooks
 
 ## Overview
 
